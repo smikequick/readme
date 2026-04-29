@@ -4,8 +4,8 @@ Strategy & Operations leader building technical depth in SQL, Python,
 and data analytics to complement enterprise technology delivery experience.
 
 ### Currently building
-- Hospital Performance Intelligence — CMS dataset SQL analysis (PostgreSQL)
-- Education data platform — Supabase, Python, Node.js, React
+- Hospital Performance Intelligence — CMS dataset SQL analysis (PostgreSQL) - in development
+- Education data platform — Supabase, Python, Node.js, React - in development
 - Personal financial operations dashboard — in development
 
 ### Background
