@@ -19,4 +19,4 @@ SQL (PostgreSQL) | Python | Palantir Foundry | Generative AI | Supabase
 Available for federal and commercial engagements.
 
 ### Connect
-[LinkedIn]([https://www.linkedin.com/in/smikequick/])# readme
+[LinkedIn](https://www.linkedin.com/in/smikequick/)
