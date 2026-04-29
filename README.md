@@ -3,10 +3,10 @@
 Strategy & Operations leader building technical depth in SQL, Python, 
 and data analytics to complement enterprise technology delivery experience.
 
-### Currently building
+### Currently developing
 - Hospital Performance Intelligence — CMS dataset SQL analysis (PostgreSQL) - in development
-- Education data platform — Supabase, Python, Node.js, React - in development
-- Personal financial operations dashboard — in development
+- Education data platform — Supabase, Python, Node.js, React
+- Personal financial operations dashboard
 
 ### Background
 4.5 years delivering enterprise technology solutions on Palantir Foundry 
